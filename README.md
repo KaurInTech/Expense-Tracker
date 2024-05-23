@@ -1,6 +1,6 @@
 # Expense-Tracker
 
-##Backend 
+## Backend 
 
 In backend empty folder, run command npm init, hit enter few times, it will ask you about the starting file- you can have any name, I had app.js
 
@@ -108,7 +108,7 @@ Best Practices
 	•	Load dotenv Early: Ensure that dotenv is loaded at the beginning of your code, so all environment variables are available when needed.
 In summary, running npm install dotenv is a common practice in Node.js projects to manage environment variables, enhancing security, flexibility, and configuration management.
 
-##Frontend
+## Frontend
 
 npx create-react-app frontend - creates a frontend folder with react app installed in it
 
